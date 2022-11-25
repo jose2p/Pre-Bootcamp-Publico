@@ -1,2 +1,2 @@
-# Pre-Bootcamp-Privado
-Repositorio privado para el Pre-Bootcamp de Coding Dojo
+# Pre-Bootcamp-Publico
+Repositorio publico para el Pre-Bootcamp de Coding Dojo
